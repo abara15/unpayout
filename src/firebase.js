@@ -1,7 +1,7 @@
 // Import the functions you need from the SDKs you need
-import firebase from "firebase/app";
+import firebase from "firebase/compat/app";
 // TODO: Add SDKs for Firebase products that you want to use
-import "firebase/auth";
+import "firebase/compat/auth";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Initialize Firebase with web app's configuration
